@@ -1,4 +1,4 @@
-#header {
+.textcontents{
     background-color: grey;
     color: white;
     height: 100px;
@@ -8,17 +8,23 @@
 
 
 #maincontent{
-    height: 100px;
+    height: 400px;
     background-color: lightblue;
 
 }
-#footer{
-    background-color: grey;
-    color: white;
-    height: 100px;
-    display: flex;
-    align-items: center;
+#navigation{
+    background-color: lightcoral;
+    height: 400px;
+    width: 25%;
+    padding: 10px;
 }
+.navitem{
+    background-color: lightgoldenrodyellow;
+    height: 80px;
+    margin: 5px;
+    padding: 25px 0px 0px 20px;
+}
+
 
 
 
