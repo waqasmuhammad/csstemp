@@ -7,6 +7,20 @@
 }
 
 
+#maincontent{
+    height: 100px;
+    background-color: lightblue;
+
+}
+#footer{
+    background-color: grey;
+    color: white;
+    height: 100px;
+    display: flex;
+    align-items: center;
+}
+
+
 
 
 
